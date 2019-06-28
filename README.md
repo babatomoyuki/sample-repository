@@ -1,1 +1,3 @@
-# sample-repository
+# login-db(PSMS)
+# DB管理者用ページ（要ログイン）
+# 別途ダンプ作成要ページも含む
